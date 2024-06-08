@@ -443,7 +443,6 @@ input[type="password"] {
     margin-top: -100px;
     width: 1500PX;
     height: 570px;
-    
 }
 
 .content4 {
@@ -451,6 +450,4 @@ input[type="password"] {
     text-align: center;
     margin-bottom: 3rem;
     min-height: 100vh;
-    margin-left: 0;
-    margin-right: 0;
 }

@@ -14,19 +14,19 @@ O projeto está estruturado da seguinte forma:
 - style.css: Arquivo que contém os estilos CSS para a aparência do site.
 - script.js: Arquivo JavaScript que adiciona interatividade ao site, como o menu responsivo e o carrossel de imagens.
 
-# Como Executar:
+# Como Executar
 Para visualizar o site, basta abrir o arquivo index.html em um navegador da web. Certifique-se de que todos os arquivos (HTML, CSS, JavaScript e imagens) estejam na mesma pasta.
 
-# Tecnologias Utilizadas:
+# Tecnologias Utilizadas
 HTML, CSS e JavaScript para a estrutura, estilo e interatividade do site.
 Sensores IoT para coleta de dados em tempo real sobre a qualidade da água.
 Inteligência Artificial para análise dos dados e geração de alertas.
 Filtro eletrostático para remoção de microplásticos.
 
-# Parcerias:
+# Parcerias
 - Cátedra UNESCO para a Sustentabilidade do Oceano da Universidade de São Paulo
 - FIAP (Faculdade de Informática e Administração Paulista)
 - Fórum Econômico Mundial e Pacto Global da ONU – Rede Brasil
 
-# Contribuição:
+# Contribuição
 Este projeto é um exemplo e não está em desenvolvimento ativo. No entanto, fique à vontade para contribuir com melhorias ou correções.

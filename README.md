@@ -1,7 +1,7 @@
 # GS-BlueGuardBlueGuard: Sistema de Monitoramento e Alerta de Poluição Marinha
 O BlueGuard é um sistema inovador que combina monitoramento em tempo real da qualidade da água com um sistema de filtragem eletrostática para combater a poluição marinha, especialmente a causada por microplásticos.
 
-#Estrutura do Projeto
+# Estrutura do Projeto
 O projeto está estruturado da seguinte forma:
 - index.html: Página inicial do projeto, apresentando o problema da poluição marinha e a solução proposta pelo BlueGuard.
 - probXsol.html: Página com detalhes sobre o problema da poluição marinha e como o BlueGuard o soluciona.

@@ -160,6 +160,7 @@ body {
 .container {
     display: flex;
     align-items: flex-start;
+    
   }
   
   .content {
@@ -168,6 +169,8 @@ body {
   
   .img {
     margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 60px;
      
   }
   
@@ -192,8 +195,8 @@ body {
     margin-right: 20px;
     border-radius: 1000px;
     background-color: #f5f5f5;
-    width: 50%; 
-    height: 50%; 
+    width: 300px; 
+    height: 300px; 
 }
 
 .paragrafo {
@@ -375,6 +378,10 @@ footer {
     text-align: center;
 }
 
+.container2 > p {
+    font-size: 20px;
+}
+
 .container > label {
     display: block;
     margin-bottom: 5px;
@@ -397,3 +404,35 @@ input[type="password"] {
      cursor: pointer;
      font-size: 16px;
  }
+
+ /*CARROSSEL*/
+
+#content1 {
+   
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    min-height: 100vh;
+    
+}
+
+.carrossel {
+    filter: drop-shadow(0px 0px 10px #000);
+    overflow: hidden;
+    width: 1500px;
+    height: 570px;
+    margin-left: 60px;
+   
+}
+
+.container3{
+    display: flex;
+    transition: 0.7s ease-in-out;
+    transform: translateX(0);
+}
+
+.container3 img{
+    margin-top: -100px;
+    width: 1500PX;
+    height: 570px;
+}

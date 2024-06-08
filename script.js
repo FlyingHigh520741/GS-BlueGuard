@@ -10,20 +10,38 @@ function menuShow(){
 }
 
 function entrar(event) {
-
-    var login = document.getElementById("login").value;
-    var senha = document.getElementById("senha").value;
-
+    event.preventDefault(); 
+  
+    const login = document.getElementById("login").value;
+    const senha = document.getElementById("senha").value;
+  
     if (login === "1234" && senha === "1234") {
-        alert("logado com sucesso");
-        window.location.href = '../index.html';
-
+      alert("Logado com sucesso");
+      window.location.href = '../index.html';
+    } else {
+      alert("Usuário ou senha inválidos");
     }
-    else {
-        alert("Usuário ou senha inválidos");
-    }
-}
+  }
+  
 
 function voltar(){
     window.location.href = '../index.html'
 }
+
+/*CARROSSEL*/ 
+const box = document.querySelector(".container3");
+const imagens = document.querySelectorAll(".container3 img");
+
+let contador = 0;
+
+function slider() {
+  contador++;
+
+  if (contador > imagens.length - 1) {
+    contador = 0;
+  }
+
+  box.style.transform = `translateX(${-contador * 1500}px)`;
+}
+
+setInterval(slider, 2000);

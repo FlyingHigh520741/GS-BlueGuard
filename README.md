@@ -30,3 +30,7 @@ Filtro eletrostático para remoção de microplásticos.
 
 # Contribuição
 Este projeto é um exemplo e não está em desenvolvimento ativo. No entanto, fique à vontade para contribuir com melhorias ou correções.
+
+# Equipe
+Bento Rangel - RM559124 & Daniel Vieira - RM556275
+

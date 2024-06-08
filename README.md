@@ -2,7 +2,7 @@
 O BlueGuard é um sistema inovador que combina monitoramento em tempo real da qualidade da água com um sistema de filtragem eletrostática para combater a poluição marinha, especialmente a causada por microplásticos.
 
 Estrutura do Projeto
-O projeto está estruturado da seguinte forma:
+#O projeto está estruturado da seguinte forma:
 - index.html: Página inicial do projeto, apresentando o problema da poluição marinha e a solução proposta pelo BlueGuard.
 - probXsol.html: Página com detalhes sobre o problema da poluição marinha e como o BlueGuard o soluciona.
 - tecnologia.html: Página que descreve a tecnologia por trás do BlueGuard, incluindo sensores IoT e o filtro eletrostático.
@@ -15,10 +15,10 @@ O projeto está estruturado da seguinte forma:
 - script.js: Arquivo JavaScript que adiciona interatividade ao site, como o menu responsivo e o carrossel de imagens.
 
 Como Executar:
-  Para visualizar o site, basta abrir o arquivo index.html em um navegador da web. Certifique-se de que todos os arquivos (HTML, CSS, JavaScript e imagens) estejam na mesma pasta.
+#  Para visualizar o site, basta abrir o arquivo index.html em um navegador da web. Certifique-se de que todos os arquivos (HTML, CSS, JavaScript e imagens) estejam na mesma pasta.
 
 Tecnologias Utilizadas:
-  HTML, CSS e JavaScript para a estrutura, estilo e interatividade do site.
+#  HTML, CSS e JavaScript para a estrutura, estilo e interatividade do site.
 Sensores IoT para coleta de dados em tempo real sobre a qualidade da água.
 Inteligência Artificial para análise dos dados e geração de alertas.
 Filtro eletrostático para remoção de microplásticos.
@@ -29,4 +29,4 @@ Parcerias:
 - Fórum Econômico Mundial e Pacto Global da ONU – Rede Brasil
 
 Contribuição:
-  Este projeto é um exemplo e não está em desenvolvimento ativo. No entanto, fique à vontade para contribuir com melhorias ou correções.
+#  Este projeto é um exemplo e não está em desenvolvimento ativo. No entanto, fique à vontade para contribuir com melhorias ou correções.

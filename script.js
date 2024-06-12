@@ -9,8 +9,7 @@ function menuShow(){
     }
 }
 
-function entrar(event) {
-    event.preventDefault(); 
+function entrar(event) { 
   
     const login = document.getElementById("login").value;
     const senha = document.getElementById("senha").value;
